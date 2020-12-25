@@ -39,13 +39,6 @@
 <a href="https://github.com/pratikpwr">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pratikpwr&show_icons=true&theme=dark&line_height=27" alt="Pratik's github stats"/>
 </a>
-<a href="https://github.com/pratikpwr/SwipeUp-News">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pratikpwr&repo=SwipeUp-News&theme=dark" />
-
-</a>
-<a href="https://github.com/pratikpwr/All-Kart">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pratikpwr&repo=All-Kart&theme=dark" />
-</a>
 
 <div align="center">
 
