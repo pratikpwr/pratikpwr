@@ -14,12 +14,11 @@
 
 
 - 🔭 I’m currently working on Python and Flask.
-- 🌱 I’m currently learning more about Flutter.
+- 🌱 I’m currently learning more about NodeJS.
 - 👯 I’m looking to collaborate on Flutter Projects.
 - 🤔 I’m looking for help with SwipeUp News App.
 - 💬 Ask me about Flutter.
 - 📫 How to reach me: [Instagram - @_.pratikpawar._](https://instagram.com/_.pratikpawar._/)
-- 😄 Pronouns: He/His
 
 [![Linkedin: pratikpwr](https://img.shields.io/badge/-pratikpwr-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pratikpwr/)](https://www.linkedin.com/in/pratikpwr/)
 [![GitHub pratikpwr](https://img.shields.io/github/followers/pratikpwr?label=follow&style=social)](https://github.com/pratikpwr)
@@ -30,6 +29,8 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png"></code>
 
