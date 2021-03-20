@@ -4,7 +4,10 @@
 
 
 <a href="https://linkedin.com/in/pratikpwr">
-  <img align="left" alt="Pratik's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Pratik's Linkdein" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://www.instagram.com/_.pratikpawar._/">
+  <img align="left" alt="Pratik's Instagram" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
 <br/>
@@ -35,7 +38,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png"></code>
 
 <a href="https://github.com/pratikpwr">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratikpwr&theme=dark&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratikpwr&langs_count=3&theme=dark&hide_langs_below=1" />
 </a>
 <a href="https://github.com/pratikpwr">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pratikpwr&show_icons=true&theme=dark&line_height=27" alt="Pratik's github stats"/>
