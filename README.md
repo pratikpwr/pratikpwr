@@ -3,9 +3,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratikpwr&label=Profile Views&color=blue&style=flat" alt="pratikpwr" /> </p>
 
 
-[![Linkedin: pratikpwr](https://img.shields.io/badge/-pratikpwr-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pratikpwr/)](https://www.linkedin.com/in/pratikpwr/)
-[![Instagram: _.pratikpawar._](https://img.shields.io/badge/-_.pratikpawar._-white?style=flat-square&logo=instagram&link=https://instagram.com/_.pratikpawar._/)](https://instagram.com/_.pratikpawar._/)
-[![Portfolio: pratikpwr](https://img.shields.io/badge/-PortFolio-white?style=flat-square&link=https://pratikpwr.github.io/Portfolio/)](https://pratikpwr.github.io/Portfolio/)
+[![Linkedin: pratikpwr](https://img.shields.io/badge/-pratikpwr-blue?style=plastic-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pratikpwr/)](https://www.linkedin.com/in/pratikpwr/)
+[![Instagram: _.pratikpawar._](https://img.shields.io/badge/-_.pratikpawar._-white?style=plastic-square&logo=instagram&link=https://instagram.com/_.pratikpawar._/)](https://instagram.com/_.pratikpawar._/)
+[![Portfolio: pratikpwr](https://img.shields.io/badge/-PortFolio-white?style=plastic-square&link=https://pratikpwr.github.io/Portfolio/)](https://pratikpwr.github.io/Portfolio/)
 [![GitHub pratikpwr](https://img.shields.io/github/followers/pratikpwr?label=follow&style=social)](https://github.com/pratikpwr)
 
 
@@ -17,7 +17,6 @@ I am an enthusiastic developer, having a ton of interest in Software Development
 <br/>
 
 **Langauges and Tools :**  
-<br/>
 
 [![](https://img.shields.io/badge/-C++-white?style=for-the-badge&logo=c&logoColor=005697)]()
 [![](https://img.shields.io/badge/-Dart-white?style=for-the-badge&logo=dart&logoColor=54c5f8)]()
@@ -35,13 +34,12 @@ I am an enthusiastic developer, having a ton of interest in Software Development
 
 <br/>
 <br/>
-<br/>
 
 <a href="https://github.com/pratikpwr">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratikpwr&langs_count=3&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratikpwr&langs_count=3&theme=radical" />
 </a>
 <a href="https://github.com/pratikpwr">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=pratikpwr&show_icons=true&theme=dark&line_height=27" alt="Pratik's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=pratikpwr&show_icons=true&theme=radical&line_height=27" alt="Pratik's github stats"/>
 </a>
 
 <div align="center">
