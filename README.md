@@ -18,25 +18,26 @@ I am an enthusiastic developer, having a ton of interest in Software Development
 
 **Langauges and Tools :**  
 
-[![](https://img.shields.io/badge/-C++-white?style=for-the-badge&logo=c&logoColor=005697)]()
-[![](https://img.shields.io/badge/-Dart-white?style=for-the-badge&logo=dart&logoColor=54c5f8)]()
-[![](https://img.shields.io/badge/-JavaScript-white?style=for-the-badge&logo=javascript&logoColor=yellow)]()
-[![](https://img.shields.io/badge/-python-white?style=for-the-badge&logo=python&logoColor=blue)]()
+[![](https://img.shields.io/badge/-C++-ededeb?style=for-the-badge&logo=c&logoColor=005697)]()
+[![](https://img.shields.io/badge/-Dart-ededeb?style=for-the-badge&logo=dart&logoColor=54c5f8)]()
+[![](https://img.shields.io/badge/-Go-ededeb?style=for-the-badge&logo=go&logoColor=54c5f8)]()
+[![](https://img.shields.io/badge/-JavaScript-ededeb?style=for-the-badge&logo=javascript&logoColor=yellow)]()
+[![](https://img.shields.io/badge/-python-ededeb?style=for-the-badge&logo=python&logoColor=blue)]()
 
-[![](https://img.shields.io/badge/-Flutter-white?style=for-the-badge&logo=flutter&logoColor=54c5f8)]()
-[![](https://img.shields.io/badge/-nodejs-white?style=for-the-badge&logo=node.js&logoColor=green)]()
-[![](https://img.shields.io/badge/-flask-white?style=for-the-badge&logo=flask&logoColor=black)]()
-[![](https://img.shields.io/badge/-android-white?style=for-the-badge&logo=android&logoColor=green)]()
+[![](https://img.shields.io/badge/-Flutter-ededeb?style=for-the-badge&logo=flutter&logoColor=54c5f8)]()
+[![](https://img.shields.io/badge/-nodejs-ededeb?style=for-the-badge&logo=node.js&logoColor=green)]()
+[![](https://img.shields.io/badge/-flask-ededeb?style=for-the-badge&logo=flask&logoColor=black)]()
+[![](https://img.shields.io/badge/-android-ededeb?style=for-the-badge&logo=android&logoColor=green)]()
 
-[![](https://img.shields.io/badge/-Git-white?style=for-the-badge&logo=git&logoColor=red)]()
-[![](https://img.shields.io/badge/-GitHub-white?style=for-the-badge&logo=github&logoColor=black)]()
-[![](https://img.shields.io/badge/-Adobe%20XD-white?style=for-the-badge&logo=adobe-xd&logoColor=450135)]()
+[![](https://img.shields.io/badge/-Git-ededeb?style=for-the-badge&logo=git&logoColor=red)]()
+[![](https://img.shields.io/badge/-GitHub-ededeb?style=for-the-badge&logo=github&logoColor=black)]()
+[![](https://img.shields.io/badge/-Adobe%20XD-ededeb?style=for-the-badge&logo=adobe-xd&logoColor=450135)]()
 
 <br/>
 <br/>
 
 <a href="https://github.com/pratikpwr">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratikpwr&langs_count=3&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratikpwr&layout=compact&hide=ejs,css,html,swift,kotlin&theme=radical" />
 </a>
 <a href="https://github.com/pratikpwr">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pratikpwr&show_icons=true&theme=radical&line_height=27" alt="Pratik's github stats"/>
