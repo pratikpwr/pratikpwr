@@ -37,7 +37,7 @@ I am an enthusiastic developer, having a ton of interest in Software Development
 <br/>
 
 <a href="https://github.com/pratikpwr">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratikpwr&layout=compact&hide=ejs,css,html,swift,kotlin&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratikpwr&hide=ejs&theme=radical" />
 </a>
 <a href="https://github.com/pratikpwr">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pratikpwr&show_icons=true&theme=radical&line_height=27" alt="Pratik's github stats"/>
