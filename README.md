@@ -1,16 +1,14 @@
 # Hii, I'm Pratik Pawar 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pratikpwr&label=Profile Views&color=blue&style=flat" alt="pratikpwr" /> </p>
-
 
 [![Linkedin: pratikpwr](https://img.shields.io/badge/-pratikpwr-blue?style=plastic-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pratikpwr/)](https://www.linkedin.com/in/pratikpwr/)
 [![Instagram: _.pratikpawar._](https://img.shields.io/badge/-_.pratikpawar._-white?style=plastic-square&logo=instagram&link=https://instagram.com/_.pratikpawar._/)](https://instagram.com/_.pratikpawar._/)
-[![Portfolio: pratikpwr](https://img.shields.io/badge/-PortFolio-white?style=plastic-square&link=https://pratikpwr.github.io/Portfolio/)](https://pratikpwr.github.io/Portfolio/)
+[![Portfolio: pratikpwr](https://img.shields.io/badge/-PortFolio-white?style=plastic-square&link=https://pratikpwr.me/)](https://pratikpwr.me/)
 [![GitHub pratikpwr](https://img.shields.io/github/followers/pratikpwr?label=follow&style=social)](https://github.com/pratikpwr)
 
 
 <br/>
-I am an enthusiastic developer, having a ton of interest in Software Development and Design. Also I am a Strong believer that imagination brings the change and shows a path to develop something amazing and interesting.
+I am dynamic Mobile Application Developer Professional with a strong focus on Flutter Development, seeking to leverage extensive experience in creating high-performance applications within innovative tech environments, particularly in the realms of ecommerce, AgriTech and digital solutions.
 
 <br/>
 
