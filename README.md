@@ -2,10 +2,11 @@
 
 # Hey, I'm Pratik Pawar
 
-**Senior Flutter Developer · 5+ Years · Building Exceptional Mobile Experiences**
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=520&lines=Senior+Flutter+Developer+%7C+5%2B+Years;Building+Nirmo+%E2%80%94+AI-Powered+App+Builder;Clean+Architecture+%C2%B7+TDD+%C2%B7+Agentic+Dev;Turning+Ideas+into+Pixel-Perfect+Apps" alt="Typing SVG" /></a>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-pratikpwr-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pratikpwr/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-pratikpwr.me-000?style=flat&logo=safari&logoColor=white)](https://pratikpwr.me/)
+[![Nirmo](https://img.shields.io/badge/Nirmo-nirmo.dev-6C63FF?style=flat&logo=flutter&logoColor=white)](https://nirmo.dev/)
 [![GitHub](https://img.shields.io/github/followers/pratikpwr?label=Follow&style=flat&logo=github)](https://github.com/pratikpwr)
 [![Email](https://img.shields.io/badge/Email-pratiksatishpawar-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:pratiksatishpawar@gmail.com)
 
@@ -17,6 +18,8 @@
 
 Mobile Application Developer with **5+ years** of experience specializing in **Flutter**. I build high-performance apps across eCommerce, AgriTech, restaurant tech, and digital solutions. Currently crafting software at **Incubyte** with a focus on clean architecture, TDD, and agentic development workflows.
 
+Building **[Nirmo](https://nirmo.dev)** — an AI-powered platform that lets you build Flutter apps from plain English.
+
 - Speaker at **Flutter Nashik** · Host of local tech meetups
 - B.E. in Computer Science — SITRC Nashik (CGPA: 8.8)
 
@@ -24,31 +27,17 @@ Mobile Application Developer with **5+ years** of experience specializing in **F
 
 ### Tech Stack
 
-**Mobile & Frontend**
+<div align="center">
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-000000?style=flat&logo=apple&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=flutter,dart,kotlin,java,python,js,androidstudio,vscode&theme=light)](https://skillicons.dev)
 
-**Architecture & Patterns**
+[![My Skills](https://skillicons.dev/icons?i=firebase,nodejs,flask,graphql,git,github,docker,supabase&theme=light)](https://skillicons.dev)
 
-`Clean Architecture` · `TDD` · `MVVM` · `BLoC` · `Provider` · `Riverpod`
+</div>
 
-**Languages**
+**AI & Dev Tools** &nbsp; ![Claude](https://img.shields.io/badge/Claude_Code-D97757?style=flat&logo=claude&logoColor=white) ![Cursor](https://img.shields.io/badge/Cursor_IDE-000?style=flat&logo=cursor&logoColor=white)
 
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-
-**Backend & Tools**
-
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000?style=flat&logo=flask&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+**Architecture & Patterns** &nbsp; `Clean Architecture` · `TDD` · `MVVM` · `BLoC` · `Provider` · `Riverpod`
 
 ---
 
@@ -61,12 +50,17 @@ Mobile Application Developer with **5+ years** of experience specializing in **F
 | **FarmSetu Technologies** | Mobile Application Developer | Dec 2021 – Jul 2023 |
 | **DreamCare Developers** | Software Developer | Jan 2021 – Nov 2021 |
 
-**Highlights**
+<details>
+<summary><b>Key Highlights</b></summary>
+<br>
 
 - Built & published a **GraphQL Network DevTools Extension** on Pub.dev
 - Integrated multiple **physical card readers** for payment processing — reduced transaction costs by **12%**
 - Created a custom **Mason template** cutting boilerplate time from 1 hour to **5 minutes**
 - Developed high-impact platforms driving a **30% increase** in weekly active users
+- Implemented **AI agent** to analyze PR comments, sharing learnings across the mobile guild
+
+</details>
 
 ---
 
@@ -107,12 +101,24 @@ Mobile Application Developer with **5+ years** of experience specializing in **F
 
 <div align="center">
 
+### GitHub Stats
+
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=pratikpwr&show_icons=true&theme=default&hide_border=true&count_private=true" />
 &nbsp;&nbsp;
+<img height="160" src="https://streak-stats.demolab.com?user=pratikpwr&theme=default&hide_border=true" />
+
+<br/>
+
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratikpwr&layout=compact&hide=ejs&theme=default&hide_border=true" />
+
+<br/><br/>
+
+<img src="https://gh-motion-card.vercel.app/api/github-motion?username=pratikpwr&theme=light&animation=snake&shape=square" alt="GitHub Motion" />
 
 ---
 
 *Open to interesting conversations about Flutter, mobile architecture, and agentic development.*
+
+![](https://komarev.com/ghpvc/?username=pratikpwr&color=6C63FF&style=flat&label=Profile+Views)
 
 </div>
