@@ -76,22 +76,22 @@ Mobile Application Developer with **5+ years** of experience specializing in **F
 <tr>
 <td width="50%">
 
-**[SafePass](https://github.com/pratikpwr/safepass)** — Secure offline password manager with encryption and random password generator.
-`Flutter` `Bloc` `Hive` `Encrypt`
+**[Nirmo](https://nirmo.dev)** — AI-powered platform to build Flutter apps from plain English. One codebase, every platform — mobile, web, and desktop.
+`Flutter` `AI` `Multi-Platform` `Code Generation`
 
 </td>
 <td width="50%">
 
-**[College Buddy](https://github.com/pratikpwr/TimeTable-APP)** — Timetable management app for students and teachers with assignments & notices.
-`Flutter` `Bloc` `Flask` `Python`
+**[SafePass](https://github.com/pratikpwr/safepass)** — Secure offline password manager with encryption and random password generator.
+`Flutter` `Bloc` `Hive` `Encrypt`
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-**[SwipeUp News](https://github.com/pratikpwr/SwipeUp-News)** — Category-based news reader with real-time updates from NewsAPI.
-`Flutter` `Dart` `REST API`
+**[College Buddy](https://github.com/pratikpwr/TimeTable-APP)** — Timetable management app for students and teachers with assignments & notices.
+`Flutter` `Bloc` `Flask` `Python`
 
 </td>
 <td width="50%">
