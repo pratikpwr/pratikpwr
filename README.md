@@ -1,64 +1,118 @@
-# Hii, I'm Pratik Pawar 👋
-
-
-[![Linkedin: pratikpwr](https://img.shields.io/badge/-pratikpwr-blue?style=plastic-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pratikpwr/)](https://www.linkedin.com/in/pratikpwr/)
-[![Instagram: _.pratikpawar._](https://img.shields.io/badge/-_.pratikpawar._-white?style=plastic-square&logo=instagram&link=https://instagram.com/_.pratikpawar._/)](https://instagram.com/_.pratikpawar._/)
-[![Portfolio: pratikpwr](https://img.shields.io/badge/-PortFolio-white?style=plastic-square&link=https://pratikpwr.me/)](https://pratikpwr.me/)
-[![GitHub pratikpwr](https://img.shields.io/github/followers/pratikpwr?label=follow&style=social)](https://github.com/pratikpwr)
-
-
-<br/>
-I am dynamic Mobile Application Developer Professional with a strong focus on Flutter Development, seeking to leverage extensive experience in creating high-performance applications within innovative tech environments, particularly in the realms of ecommerce, AgriTech and digital solutions.
-
-<br/>
-
-<br/>
-
-**Langauges and Tools :**  
-
-[![](https://img.shields.io/badge/-C++-ededeb?style=for-the-badge&logo=c&logoColor=005697)]()
-[![](https://img.shields.io/badge/-Dart-ededeb?style=for-the-badge&logo=dart&logoColor=54c5f8)]()
-[![](https://img.shields.io/badge/-Go-ededeb?style=for-the-badge&logo=go&logoColor=54c5f8)]()
-[![](https://img.shields.io/badge/-JavaScript-ededeb?style=for-the-badge&logo=javascript&logoColor=yellow)]()
-[![](https://img.shields.io/badge/-python-ededeb?style=for-the-badge&logo=python&logoColor=blue)]()
-
-[![](https://img.shields.io/badge/-Flutter-ededeb?style=for-the-badge&logo=flutter&logoColor=54c5f8)]()
-[![](https://img.shields.io/badge/-nodejs-ededeb?style=for-the-badge&logo=node.js&logoColor=green)]()
-[![](https://img.shields.io/badge/-flask-ededeb?style=for-the-badge&logo=flask&logoColor=black)]()
-[![](https://img.shields.io/badge/-android-ededeb?style=for-the-badge&logo=android&logoColor=green)]()
-
-[![](https://img.shields.io/badge/-Git-ededeb?style=for-the-badge&logo=git&logoColor=red)]()
-[![](https://img.shields.io/badge/-GitHub-ededeb?style=for-the-badge&logo=github&logoColor=black)]()
-[![](https://img.shields.io/badge/-Adobe%20XD-ededeb?style=for-the-badge&logo=adobe-xd&logoColor=450135)]()
-
-<br/>
-<br/>
-
-<a href="https://github.com/pratikpwr">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratikpwr&hide=ejs&theme=radical" />
-</a>
-<a href="https://github.com/pratikpwr">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=pratikpwr&show_icons=true&theme=radical&line_height=27" alt="Pratik's github stats"/>
-</a>
-
 <div align="center">
+
+# Hey, I'm Pratik Pawar
+
+**Senior Flutter Developer · 5+ Years · Building Exceptional Mobile Experiences**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-pratikpwr-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pratikpwr/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-pratikpwr.me-000?style=flat&logo=safari&logoColor=white)](https://pratikpwr.me/)
+[![GitHub](https://img.shields.io/github/followers/pratikpwr?label=Follow&style=flat&logo=github)](https://github.com/pratikpwr)
+[![Email](https://img.shields.io/badge/Email-pratiksatishpawar-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:pratiksatishpawar@gmail.com)
 
 </div>
 
+---
 
-<!-- **Languages :**  
-<br/>
+### About
 
-<img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png">
+Mobile Application Developer with **5+ years** of experience specializing in **Flutter**. I build high-performance apps across eCommerce, AgriTech, restaurant tech, and digital solutions. Currently crafting software at **Incubyte** with a focus on clean architecture, TDD, and agentic development workflows.
 
-<img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
+- Speaker at **Flutter Nashik** · Host of local tech meetups
+- B.E. in Computer Science — SITRC Nashik (CGPA: 8.8)
 
-<img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
+---
 
-<img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png">
+### Tech Stack
 
-<img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
+**Mobile & Frontend**
 
-<img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png">
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=flat&logo=apple&logoColor=white)
 
-<img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"> -->
+**Architecture & Patterns**
+
+`Clean Architecture` · `TDD` · `MVVM` · `BLoC` · `Provider` · `Riverpod`
+
+**Languages**
+
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+**Backend & Tools**
+
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000?style=flat&logo=flask&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+---
+
+### Work
+
+| Company | Role | Period |
+|---------|------|--------|
+| **Incubyte** | Software Crafter II | Aug 2025 – Present |
+| **Eigital (EatOS)** | Senior Flutter Developer | Jul 2023 – Jun 2025 |
+| **FarmSetu Technologies** | Mobile Application Developer | Dec 2021 – Jul 2023 |
+| **DreamCare Developers** | Software Developer | Jan 2021 – Nov 2021 |
+
+**Highlights**
+
+- Built & published a **GraphQL Network DevTools Extension** on Pub.dev
+- Integrated multiple **physical card readers** for payment processing — reduced transaction costs by **12%**
+- Created a custom **Mason template** cutting boilerplate time from 1 hour to **5 minutes**
+- Developed high-impact platforms driving a **30% increase** in weekly active users
+
+---
+
+### Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+**[SafePass](https://github.com/pratikpwr/safepass)** — Secure offline password manager with encryption and random password generator.
+`Flutter` `Bloc` `Hive` `Encrypt`
+
+</td>
+<td width="50%">
+
+**[College Buddy](https://github.com/pratikpwr/TimeTable-APP)** — Timetable management app for students and teachers with assignments & notices.
+`Flutter` `Bloc` `Flask` `Python`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**[SwipeUp News](https://github.com/pratikpwr/SwipeUp-News)** — Category-based news reader with real-time updates from NewsAPI.
+`Flutter` `Dart` `REST API`
+
+</td>
+<td width="50%">
+
+**[EatOS POS](https://play.google.com/store/apps/details?id=com.eatos.pos)** — Full restaurant management system — POS, inventory, payments, employee management.
+`Flutter` `Stripe` `Adyen` `Native`
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=pratikpwr&show_icons=true&theme=default&hide_border=true&count_private=true" />
+&nbsp;&nbsp;
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratikpwr&layout=compact&hide=ejs&theme=default&hide_border=true" />
+
+---
+
+*Open to interesting conversations about Flutter, mobile architecture, and agentic development.*
+
+</div>
