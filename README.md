@@ -2,7 +2,7 @@
 
 # Hey, I'm Pratik Pawar
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=520&lines=Senior+Flutter+Developer+%7C+5%2B+Years;Building+Nirmo+%E2%80%94+AI-Powered+App+Builder;Clean+Architecture+%C2%B7+TDD+%C2%B7+Agentic+Dev;Turning+Ideas+into+Pixel-Perfect+Apps" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=520&lines=Senior+Software+Developer+%7C+5%2B+Years;Building+Nirmo+%E2%80%94+AI-Powered+App+Builder;Clean+Architecture+%C2%B7+TDD+%C2%B7+Agentic+Dev;Turning+Ideas+into+Pixel-Perfect+Apps" alt="Typing SVG" /></a>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-pratikpwr-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pratikpwr/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-pratikpwr.me-000?style=flat&logo=safari&logoColor=white)](https://pratikpwr.me/)
